@@ -1,0 +1,30 @@
+{
+  "name": "svg-path-animation",
+  "version": "1.0.0",
+  "description": "simple css svg path animation",
+  "module": "dist/animate.esm.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "pretest": "npm run build"
+  },
+  "devDependencies": {
+    "@types/ms": "^0.7.30",
+    "rollup": "^1.0.0",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-typescript": "^1.0.0",
+    "ts-node": "^7.0.1",
+    "tslib": "^1.9.3",
+    "typescript": "^3.2.2"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "svg",
+    "animation"
+  ],
+  "author": "Iustinian G",
+  "license": "MIT"
+}
