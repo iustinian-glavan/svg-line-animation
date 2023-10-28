@@ -1,6 +1,6 @@
 {
   "name": "svg-line-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple css svg path animation",
   "module": "dist/animate.esm.js",
   "scripts": {
