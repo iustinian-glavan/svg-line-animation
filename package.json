@@ -1,5 +1,5 @@
 {
-  "name": "svg-path-animation",
+  "name": "svg-line-animation",
   "version": "1.0.0",
   "description": "simple css svg path animation",
   "module": "dist/animate.esm.js",
